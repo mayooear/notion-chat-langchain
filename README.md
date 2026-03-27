@@ -1,5 +1,9 @@
 # A ChatBot for Your Notion Knowledge Base
 
+> [!IMPORTANT]
+> This project is no longer actively maintained and is kept here for reference.
+> Please do not expect responses to new issues or pull requests.
+
 Create a simple chatbot for question-answering your Notion knowledge base/docs using Openai, Typescript, LangChain and Pinecone.
 
 [Tutorial video](https://www.youtube.com/watch?v=prbloUGlvLE)
